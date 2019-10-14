@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/30011037/Desktop/TheObelisk/dev build/TheObelisk/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1

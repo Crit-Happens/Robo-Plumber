@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 10e28af725cdb6040bf3795739806f02
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: EarLeft
+    100004: EarLeftInner
+    100006: EarRight
+    100008: EarRightInner
+    100010: EyeBandanna
+    100012: EyeLeft
+    100014: EyeRight
+    100016: HandLeft
+    100018: HandRight
+    100020: Head
+    100022: head_Knot
+    100024: Neck
+    100026: Nose
+    100028: //RootNode
+    100030: Snout
+    100032: Tail1
+    100034: Tail1_001
+    100036: Tail1_002
+    100038: Tail1_003
+    100040: Tail1_004
+    400000: Body
+    400002: EarLeft
+    400004: EarLeftInner
+    400006: EarRight
+    400008: EarRightInner
+    400010: EyeBandanna
+    400012: EyeLeft
+    400014: EyeRight
+    400016: HandLeft
+    400018: HandRight
+    400020: Head
+    400022: head_Knot
+    400024: Neck
+    400026: Nose
+    400028: //RootNode
+    400030: Snout
+    400032: Tail1
+    400034: Tail1_001
+    400036: Tail1_002
+    400038: Tail1_003
+    400040: Tail1_004
+    2100000: Eyes
+    2100002: BanndanaKnot
+    2100004: Bandanna
+    2100006: Material_011
+    2100008: Material_005
+    2100010: Material_008
+    2100012: Material_006
+    2100014: Material_009
+    2100016: Material_003
+    2100018: Material_002
+    2100020: Material_001
+    2100022: Material
+    2100024: Material_004
+    2100026: Material_010
+    2100028: Material_007
+    2100030: Material_012
+    2100032: Material_013
+    2100034: Material_014
+    2100036: Material_015
+    2100038: eye
+    2300000: Body
+    2300002: EarLeft
+    2300004: EarLeftInner
+    2300006: EarRight
+    2300008: EarRightInner
+    2300010: EyeBandanna
+    2300012: EyeLeft
+    2300014: EyeRight
+    2300016: HandLeft
+    2300018: HandRight
+    2300020: Head
+    2300022: head_Knot
+    2300024: Neck
+    2300026: Nose
+    2300028: Snout
+    2300030: Tail1
+    2300032: Tail1_001
+    2300034: Tail1_002
+    2300036: Tail1_003
+    2300038: Tail1_004
+    3300000: Body
+    3300002: EarLeft
+    3300004: EarLeftInner
+    3300006: EarRight
+    3300008: EarRightInner
+    3300010: EyeBandanna
+    3300012: EyeLeft
+    3300014: EyeRight
+    3300016: HandLeft
+    3300018: HandRight
+    3300020: Head
+    3300022: head_Knot
+    3300024: Neck
+    3300026: Nose
+    3300028: Snout
+    3300030: Tail1
+    3300032: Tail1_001
+    3300034: Tail1_002
+    3300036: Tail1_003
+    3300038: Tail1_004
+    4300000: EyeLeft
+    4300002: head_Knot
+    4300004: EyeBandanna
+    4300006: Tail1
+    4300008: Neck
+    4300010: HandLeft
+    4300012: Body
+    4300014: EarRightInner
+    4300016: EarRight
+    4300018: Head
+    4300020: Snout
+    4300022: Nose
+    4300024: EarLeft
+    4300026: EarLeftInner
+    4300028: HandRight
+    4300030: Tail1_001
+    4300032: Tail1_002
+    4300034: Tail1_003
+    4300036: Tail1_004
+    4300038: EyeRight
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
